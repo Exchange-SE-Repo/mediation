@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7E1D920670224DB0E5558E2882D2F2161C2BB047",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7E1D920670224DB0E5558E2882D2F2161C2BB047" : 9223372036854775807,
+    "3432914F5A5A53A36D4BED114570A3E70CF302FC" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "82A5725E-2FA3-4E5B-8A33-76F9BFEF6D41",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7E1D920670224DB0E5558E2882D2F2161C2BB047" : "SqlDatabase-multipages\/",
+    "3432914F5A5A53A36D4BED114570A3E70CF302FC" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SqlDatabase",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SqlDatabase.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Exchange-SE-Repo\/mediation-automation-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3432914F5A5A53A36D4BED114570A3E70CF302FC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Exchange-SE-Repo\/AutomationSample.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7E1D920670224DB0E5558E2882D2F2161C2BB047"
+    }
+  ]
+}
